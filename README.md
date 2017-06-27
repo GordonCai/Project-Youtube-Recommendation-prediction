@@ -11,4 +11,3 @@ Project approaches:
 * Divide the parent node using kmeans clustering on the feaure vectors instead. 
 * Perform spectral clustering on the entire graph and perform local search.
 * Set edges between cluster and perform global search.
-
